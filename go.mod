@@ -1,4 +1,4 @@
-module sso
+module github.com/Vladislav747/sso-protos
 
 go 1.21.4
 
