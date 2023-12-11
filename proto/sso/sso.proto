@@ -26,6 +26,7 @@ message LoginRequest {
   int32 app_id = 3;
 }
 
+
 message LoginResponse {
   string token = 1;
 }
